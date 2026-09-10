@@ -1,0 +1,12 @@
+<#@ template hostspecific="false" language="C#" #>
+<#@ output extension=".cs" #>
+<#
+    string buildDate = System.DateTime.Now.ToString("yyyy.MM.dd");
+#>
+namespace Zero
+{
+    internal static class BuildInfo
+    {
+        public const string BuildDate = "<#= buildDate #>";
+    }
+}
