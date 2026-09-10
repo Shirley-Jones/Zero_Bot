@@ -13,7 +13,7 @@
 #### 
 #### 
 
-# Due to all comments in the robot code being in Chinese, English users may find it difficult to read! Please consider on your own!
+# Since all comments in the robot's code are in Chinese and it only supports the Chinese client (you can modify the source code yourself to make it support the English client), it is very difficult for English users to read! Please consider carefully whether to use this robot!
 #### 
 * Dire Maul East Mage Brushing Flowers - Function List
 * 1. Unmanned automation: supports automatic reconnection, automatic login, and automatic corpse running when disconnected.
@@ -21,6 +21,6 @@
 * 2. Automatic sales and mailing: equipped with item whitelist filtering, automatic sales clearance, and fully automatic mailing functions, the backpack will never be out of stock.
 * 3. Resource diversification support: Deeply optimize resource utilization, support unlimited diversification, batch stable operation.
 * 4. Currently, the script only supports the flower brushing of the unlucky East mage (only supports mages at level 60)
-* 5. Supports turtle suit, Capibala, original version 1.12.1, not supported for other suits
+* 5. Supports turtle wow, Capybara wow, wow 1.12.1, not compatible with other versions!
 
 * All code is open source! If you are concerned about the security of your account, please do not use this robot
