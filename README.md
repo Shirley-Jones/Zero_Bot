@@ -9,11 +9,12 @@
 * 5、支持乌龟服、卡皮巴拉、原版1.12.1、其他服不支持
 
 * 所有代码均开源！如果担心您的账号安全请不要使用本机器人
+#### 
+#### 
+#### 
 
-#### Due to all comments in the robot code being in Chinese, English users may find it difficult to read! Please consider on your own!
-#### Due to all comments in the robot code being in Chinese, English users may find it difficult to read! Please consider on your own!
-#### Due to all comments in the robot code being in Chinese, English users may find it difficult to read! Please consider on your own!
-
+# Due to all comments in the robot code being in Chinese, English users may find it difficult to read! Please consider on your own!
+#### 
 * Dire Maul East Mage Brushing Flowers - Function List
 * 1. Unmanned automation: supports automatic reconnection, automatic login, and automatic corpse running when disconnected.
 * 2. Supports unlimited opening, automatic mailing, automatic package cleaning, automatic zombie running, automatic login, automatic reconnection after disconnection, item whitelist, mailing whitelist, does not rely on any plugins, read-only memory and CALL function operation, does not change memory, does not fly, does not teleport, and automatically resets the MovementAnticheat Total counter for machine human behavior.
